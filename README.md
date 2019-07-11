@@ -25,7 +25,7 @@ I like doing that part. I need to learn how to do colors
 
 
 To Do
-    Bookstore-shirt, Kiana, Karina, present for Gma
+    _Bookstore-shirt, Kiana, Karina, present for Gma_
     BuJo it up
 Pack (7/11)
     Dirty clothes
@@ -44,5 +44,11 @@ Once Home
     Padded envelope and send back with umbrella and card to Hippie Hounds
     
 Went to the bookstore and got presents for Kiana Karina Kira and Grandma
+
+## here is another section 
+double hashtag is what creates a section 2 header
+# first section header
+###third section header
+
 
 
