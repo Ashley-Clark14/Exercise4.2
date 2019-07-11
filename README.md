@@ -1,6 +1,8 @@
 # Day-4-git
 IMT 511 day 4 project with git
 This is just a demo repo for this class
+
+
 Here is where I would put my fucks if I had any
 
 Here is the time where we are learning how to do this over and over again
@@ -40,3 +42,7 @@ Pack (7/12)
 Once Home
     Thank you card for A-team to send back with umbrella
     Padded envelope and send back with umbrella and card to Hippie Hounds
+    
+Went to the bookstore and got presents for Kiana Karina Kira and Grandma
+
+
