@@ -65,6 +65,6 @@ double hashtag is what creates a section 2 header
 bullets can be done with a * or a -
 
 ### Links
-Html links work as this ;[google](www.google.com)
+Html links work as this: [google](www.google.com)
 
 
