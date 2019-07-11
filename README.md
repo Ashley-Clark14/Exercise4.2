@@ -1,80 +1,24 @@
-# Day-4-git
-IMT 511 day 4 project with git
-This is just a demo repo for this class
 
+![example news story](ex04.2-example.png)
 
-Here is where I would put my fucks if I had any
+## More detailed tasks
 
-Here is the time where we are learning how to do this over and over again
+1. Create a github repo.  Include the Readme file in that repo.
+2. clone the repo to your computer.
+3. edit the readme file and make a new story of it.
+3. add an image to the story.  Don't forget to `git add` it.
+4. frequently commit and push your changes
 
+## Structure of the news story
 
-We are trying to make sure we understand how to do this
-
-gitHub is pretty cool
-
-
-**import turtle
-t = turtle.Pen()
-for x in range (100):
-    t.forward(x)
-    t.left(100)
-    t.right(50)**
-    
-Here is the code for a hexagon thing in the turtle cool thing
-I like doing that part. I need to learn how to do colors
-
-
-# To Do
-
-* _Bookstore-shirt, Kiana, Karina, present for Gma_
-* BuJo it up
-    
-## Pack (7/11)
-
-* Dirty clothes
-* Everything I don’t need friday
-* Wash and put away the rest of the dishes
-
-## Pack (7/12)
-
-
-* Rest of dirty clothes
-* Bathrooms stuff
-* Make up
-* Leftover non perishable foodstuffs
-* Double check for all cords and things
-* Check out of hotel
-* Park in 15th and Stevens parking garage
-    
-## Once Home
-    
-* Thank you card for A-team to send back with umbrella
-* Padded envelope and send back with umbrella and card to Hippie Hounds
-    
-Went to the bookstore and got presents for Kiana Karina Kira and Grandma
-
-## here is another section 
-
-double hashtag is what creates a section 2 header
-
-# first section header
-
-
-# Markdown syntax
-### Bullet list
-bullets can be done with a * or a -
-
-### Links
-Html links work as this: [google](https://www.google.com)
-
-### images
-
-we can include images like this:
-
-![Giants' causeway](giants-causeway.jpg) 
-
-you have to use the correct pathway here (it is easy if it is in the folder with the git already)
-
-the exclamation point actually puts the image in line.
-
-
+* Create a top level heading that serves as a headline of your current event
+* Write a short introductory paragraph the news event. 
+  Emphasize certain words by using both bold and italics.
+* Include a quote from the news article, formatting it as a blockquote.
+* Display an image related to your article.  Don't forget to add it to
+  git!
+* Create an unordered list of additional information about your event,
+  each of which should reference (i.e. contain an url link) a
+  different news source.
+* Commit your work (including edits/added files) every once and a
+  while. 
