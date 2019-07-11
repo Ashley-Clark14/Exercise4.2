@@ -14,6 +14,12 @@ fans get more episodes?
         is looking forward to me being at home."
             *Gaiman* in _Town and Country_
 
+The actors playing the lead angel and demon, Aziraphale and Crowley respectively
+are open to the idea. David Tennant playing Crowley (_pronounced Crawl-ee_) and 
+Michael Sheen playing Aziraphale are leaving the decision up to showrunner
+and author Gaiman.
+![Tennant and Sheen as Crowley and Aziraphale](Sheen:Tennant.jpg)
+
 ## More detailed tasks
 
 1. Create a github repo.  Include the Readme file in that repo.
