@@ -26,12 +26,12 @@ I like doing that part. I need to learn how to do colors
 
 #To Do
 
-    * _Bookstore-shirt, Kiana, Karina, present for Gma_
-    * BuJo it up
+* _Bookstore-shirt, Kiana, Karina, present for Gma_
+* BuJo it up
     
 ##Pack (7/11)
 
-    * Dirty clothes
+ * Dirty clothes
     * Everything I don’t need friday
     * Wash and put away the rest of the dishes
 
