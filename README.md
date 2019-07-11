@@ -67,4 +67,14 @@ bullets can be done with a * or a -
 ### Links
 Html links work as this: [google](https://www.google.com)
 
+### images
+
+we can include images like this:
+
+![Giants' causeway](giants-causeway.jpg) 
+
+you have to use the correct pathway here (it is easy if it is in the folder with the git already)
+
+the exclamation point actually puts the image in line.
+
 
