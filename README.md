@@ -20,7 +20,7 @@ Michael Sheen playing Aziraphale are leaving the decision up to showrunner
 and author Gaiman.
 
 
-![Tennant and Sheen as Crowley and Aziraphale](Sheen:Tennant.jpg)
+![Tennant and Sheen as Crowley and Aziraphale](AngelDemon.jpg)
 
 ## More detailed tasks
 
