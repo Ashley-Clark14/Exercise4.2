@@ -5,13 +5,13 @@ written by **Sir Terry Pratchett and Neil Gaiman** garnered both praise and comp
 when it premiered in June 2019. Rumors are _flying_ about a second season but will
 fans get more episodes? 
 
-        When Express asked him in June, Gaiman sounded fairly firm about staying
+        > When Express asked him in June, Gaiman sounded fairly firm about staying
         away from Hollywood for a while. "So far, Good Omens has taken me four 
         years, or five years since I promised Terry Pratchett I’d make it," he explained.
 
         “In that five years I haven’t been writing novels," he said, adding, 
         "I have a wife who has not seen enough of me for the last few years and
-        is looking forward to me being at home."
+        is looking forward to me being at home."> 
             *Gaiman* in _Town and Country_
 
 The actors playing the lead angel and demon, Aziraphale and Crowley respectively
